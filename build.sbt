@@ -1,4 +1,4 @@
-name := """hello-akka"""
+name := """Akka Batching Example"""
 
 version := "1.0"
 
