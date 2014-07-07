@@ -13,4 +13,5 @@ public class Batch<T> {
     public List<T> getBatchedContent() {
         return batchedContent;
     }
+
 }
